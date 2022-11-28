@@ -685,7 +685,7 @@ font-size: 2rem;
 	
 .header_wrapper{
 	background-color: #DA1A25;
-	height: 50rem;
+	height: 10rem;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -727,7 +727,7 @@ font-size: 2rem;
 
 .subttl_white{
 	color: #fff;
-	font-size: 2rem;
+	font-size: 3rem;
 	margin-bottom: 3.2rem;
 	font-weight: bold;
 }
@@ -742,7 +742,7 @@ font-size: 2rem;
 	color: #fff;
 	font-size: 3rem;
 	font-weight: bold;
-	line-height: 4rem;
+	line-height: 5rem;
 }
 
 .gidancepolicy{
@@ -781,8 +781,8 @@ font-size: 2rem;
 /*	align-items: center;*/
 	background-size: contain;
 	background-repeat: no-repeat;
-  	width: 43rem;
-  	height: 43rem;
+  	width: 60rem;
+  	height: 60rem;
 	transform-origin:50%;
 	left: 0rem;
 	top: 7rem;
@@ -796,7 +796,7 @@ font-size: 2rem;
 
 .enjoy,.respect{
 	position: absolute;
-  width :23.6rem;
+  width :32.6rem;
   text-align:center;
 
 }
@@ -829,12 +829,12 @@ font-size: 2rem;
 	position: relative;
   	display: flex;
 	justify-content: center;
-	padding-top:7%;
+	padding-top:10%;
 /*	align-items: center;*/
 	background-size: contain;
 	background-repeat: no-repeat;
- 	width: 43rem;
- 	height: 43rem;
+ 	width: 60rem;
+  	height: 60rem;
 	transform-origin: center center;
 }
 
@@ -867,8 +867,8 @@ font-size: 2rem;
 /*	align-items: center;*/
 	background-size: contain;
 	background-repeat: no-repeat;
-  	width: 43rem;
-  	height: 43rem;
+  	width: 60rem;
+  	height: 60rem;
 	top: -7rem;
 	transform-origin: center center;
 }
@@ -886,7 +886,7 @@ font-size: 2rem;
 	background-image: url("images/bg2_sp.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	font-size: 2.6rem;
+	font-size: 3rem;
 }
 
 .feature_wrapper{
@@ -896,7 +896,7 @@ font-size: 2rem;
 }
 	
 .feature_wrapper img{
-		width: 40%;
+		width: 35%;
 	}
 
 .feature_list{
@@ -906,7 +906,7 @@ font-size: 2rem;
 }
 
 .feature_item{
-	background: url("images/icon_soccer.png") left 0px top 3px no-repeat;
+	background: url("images/icon_soccer.png") left 0px top 6px no-repeat;
 	padding-left: 3rem;
 	padding-bottom: 3rem;
 }
@@ -1025,7 +1025,7 @@ font-size: 2rem;
 	}
 
 .team_table{
-	font-size: 2.6rem;
+	font-size: 3rem;
 	text-align: left;
 	width: 90%;
 	margin: 0  auto;
@@ -1035,14 +1035,14 @@ font-size: 2rem;
 .team_table th{
 	display: block;
 	font-weight: bold;
-	font-size:2.6rem;
+	font-size:3rem;
 	vertical-align: top;
 	padding: 0.5rem 0;
 
 }
 
 .team_table td{
-	font-size:2.6rem;
+	font-size:3rem;
 	display: block;
 	display: inline-block;
 	padding : 0.5rem 0;
@@ -1059,13 +1059,20 @@ font-size: 2rem;
 
 .uniform_pc{
 	display: none;
-		 width: 30%;
+	}
+	
+.uniform_sp{
+	display: none;
+	width: 200%;
 	}
 
 	
 .map_pc{
 	display: none;
 	}
+
+.map_sp{
+	width:100%;
 
 .staff{
 	padding-top: 4rem;
@@ -1090,7 +1097,7 @@ font-size: 2rem;
 
 
 .staff_table{
-	font-size: 2.6rem;
+	font-size: 3rem;
 }
 
 .staff_list{
@@ -1122,6 +1129,7 @@ font-size: 2rem;
 
 
 .staff_th{
+	font-size:3rem;
 	display: block;
 	font-weight: bold;
 	vertical-align: top;
@@ -1129,6 +1137,7 @@ font-size: 2rem;
 }
 
 .staff_table td{
+	font-size:3rem;
 		margin-bottom: 1rem;
 	display: block;
 /*	padding:  0 2rem 0.5rem 2rem;*/
@@ -1139,15 +1148,15 @@ font-size: 2rem;
 }
 
 .staff_items_ttl{
-	font-size: 2.6rem;
+	font-size: 3rem;
 	font-weight: bold;
 }
 
 .staff_items_p{
-	font-size: 2.6rem;
+	font-size: 3rem;
 }
 .staff_name{
-	font-size: 3.4rem;
+	font-size: 5rem;
 	font-weight: bold;	
 	margin-bottom: 1rem;
 }
@@ -1159,7 +1168,7 @@ font-size: 2rem;
 }
 	
 	.trial img{
-		width: 80%;
+		width: 70%;
 	}
 
 .trial_wrapper{
@@ -1177,7 +1186,7 @@ font-size: 2rem;
 
 .trial_p_sp{
 	color: #fff;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	font-weight: bold;
 	text-align: left;
 	display: inline-block;
@@ -1190,7 +1199,7 @@ font-size: 2rem;
 	text-align: center;
 }
 	.match img{
-		width: 60%;
+		width: 55%;
 	}
 
 .match_wrapper{
@@ -1208,7 +1217,7 @@ font-size: 2rem;
 
 .match_p_sp{
 	color: #fff;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	font-weight: bold;
 	text-align: left;
 	display: inline-block;
@@ -1241,14 +1250,14 @@ font-size: 2rem;
 }
 
 .faq_question{
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: bold;
 	text-align: left;
 	margin-bottom: 0.5rem;
 }
 
 .faq_answer{
-	font-size: 2.6rem;
+	font-size: 3rem;
 	text-align: left;
 	padding-left: 2rem;
 }
@@ -1264,15 +1273,15 @@ font-size: 2rem;
 	color: #fff;
 	font-size: 2.6rem;
 	text-align: left;
-	width: 76%;
+	width: 90%;
 	margin: 0 auto;
 }
 
 .contact_p{
 	color: #fff;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	text-align: left;
-	width: 76%;
+	width: 90%;
 	margin: 0 auto;
 }
 
