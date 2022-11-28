@@ -1,12 +1,11 @@
 @charset "UTF-8";
 /* CSS Document */
 
-
 @media screen and (min-width:992px) {
 	
-html{
+	html{
 	font-size: 62.5%;
-		font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
+	font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
 	}
 
 .openbtn1,#g-nav,#g-nav-list{
@@ -562,7 +561,8 @@ footer{
 	
 html{
 	font-size: 62.5%;
-	font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;}
+	font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
+}
 
 #g-nav{
     /*position:fixed;にし、z-indexの数値を小さくして最背面へ*/
@@ -740,7 +740,7 @@ font-size: 2rem;
 	width: 65%;
 	margin: 0 auto;
 	color: #fff;
-	font-size: 3rem;
+	font-size: 2rem;
 	font-weight: bold;
 	line-height: 4rem;
 }
@@ -1280,4 +1280,4 @@ footer{
 	color: #fff;
 	text-align: center;
 	line-height: 56px;
-	}}
+}}
