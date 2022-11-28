@@ -633,10 +633,10 @@ font-size: 2rem;
   position:fixed;
     z-index: 9999;/*ボタンを最前面に*/
  
-  right:1rem;
+  right:0.5rem;
   cursor: pointer;
-    width: 50px;
-    height:50px;
+    width: 10rem;
+    height:10rem;
 }
   
 /*×に変化*/  
@@ -648,26 +648,26 @@ font-size: 2rem;
     height: 3px;
     border-radius: 2px;
   background-color: #fff;
-    width: 45%;
+    width: 50%;
   }
 
 .openbtn1 span:nth-of-type(1) {
-  top:15px; 
+  top:2.5rem; 
 }
 
 .openbtn1 span:nth-of-type(2) {
-  top:23px;
+  top:4.5rem;
 }
 
 .openbtn1 span:nth-of-type(3) {
-  top:31px;
+  top:6.5rem;
 }
 
 .openbtn1.active span:nth-of-type(1) {
-    top: 18px;
+    top: 3.8rem;
     left: 18px;
     transform: translateY(6px) rotate(-45deg);
-    width: 30%;
+    width: 50%;
 }
 
 .openbtn1.active span:nth-of-type(2) {
@@ -675,10 +675,10 @@ font-size: 2rem;
 }
 
 .openbtn1.active span:nth-of-type(3){
-    top: 30px;
+    top: 5.0rem;
     left: 18px;
     transform: translateY(-6px) rotate(45deg);
-    width: 30%;
+    width: 50%;
 }
 	
 
@@ -707,6 +707,7 @@ font-size: 2rem;
   	padding-top: 58.3333333%;
  	 background-repeat: no-repeat;
   	background-size: cover;
+	margin-top: 10rem;
 }
 
 .philosophy{
@@ -1290,5 +1291,5 @@ footer{
 	font-size: 2.4rem;
 	color: #fff;
 	text-align: center;
-	line-height: 56px;
+	line-height: 10rem;
 }}
