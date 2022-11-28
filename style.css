@@ -560,7 +560,7 @@ footer{
 @media screen and ( max-width:992px) {
 	
 html{
-	font-size: 80%;
+	font-size: 62.5%;
 	font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
 }
 
@@ -685,7 +685,7 @@ font-size: 2rem;
 	
 .header_wrapper{
 	background-color: #DA1A25;
-	height: 5rem;
+	height: 50rem;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -740,7 +740,7 @@ font-size: 2rem;
 	width: 65%;
 	margin: 0 auto;
 	color: #fff;
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: bold;
 	line-height: 4rem;
 }
@@ -766,7 +766,7 @@ font-size: 2rem;
 
 .subttl_red{
 	color: #DA1A25;
-	font-size: 2rem;
+	font-size: 3rem;
 	margin-bottom: 3rem;
 	font-weight: bold;
 }
@@ -803,13 +803,13 @@ font-size: 2rem;
 
 .enjoy_ttl,.respect_ttl{
 	color: #DA1A25;
-	font-size: 3.2rem;
+	font-size: 4.2rem;
 	font-weight: bold;
 }
 
 .enjoy_subttl,.respect_subttl{
 	color: #DA1A25;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	font-weight: bold;
 	margin-bottom: 1rem;
 }
@@ -819,7 +819,7 @@ font-size: 2rem;
 }
 
 .guidance_p_black{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	text-align: left;
 }
 
@@ -846,13 +846,13 @@ font-size: 2rem;
 
 .challenge_ttl{
 	color: #fff;
-	font-size: 3.2rem;
+	font-size: 4.2rem;
 	font-weight: bold;
 }
 
 .challenge_subttl{
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	font-weight: bold;
 	margin-bottom: 2rem;
 }
@@ -875,7 +875,7 @@ font-size: 2rem;
 
 .guidance_p_white{
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	text-align: left;
 }
 
@@ -886,7 +886,7 @@ font-size: 2rem;
 	background-image: url("images/bg2_sp.png");
 	background-size: cover;
 	background-repeat: no-repeat;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 }
 
 .feature_wrapper{
@@ -946,7 +946,7 @@ font-size: 2rem;
 
 .lower_ttl{
 	display: inline-block;
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: bold;
 	background-color: #DA1A25;
 	margin-bottom: 2.8rem;
@@ -957,7 +957,7 @@ font-size: 2rem;
 
 .lower_subttl{
 	color: #DA1A25;
-	font-size: 2.4rem;
+	font-size: 3.4rem;
 	font-weight: bold;
 	margin-bottom: 0.8rem;
 }
@@ -967,7 +967,7 @@ font-size: 2rem;
 }
 
 .lower_p{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 }
 
 .higher{
@@ -981,7 +981,7 @@ font-size: 2rem;
 
 .higher_ttl{
 	display: inline-block;
-	font-size: 3rem;
+	font-size: 4rem;
 	font-weight: bold;
 	background-color: #3c3c3c;
 	margin-bottom: 2.8rem;
@@ -992,7 +992,7 @@ font-size: 2rem;
 
 .higher_subttl{
 	color: #3c3c3c;
-	font-size: 2.4rem;
+	font-size: 3.4rem;
 	font-weight: bold;
 	margin-bottom: 0.8rem;
 }
@@ -1002,7 +1002,7 @@ font-size: 2rem;
 }
 
 .higher_p{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 }
 
 .teamdetails{
@@ -1025,7 +1025,7 @@ font-size: 2rem;
 	}
 
 .team_table{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	text-align: left;
 	width: 90%;
 	margin: 0  auto;
@@ -1035,12 +1035,14 @@ font-size: 2rem;
 .team_table th{
 	display: block;
 	font-weight: bold;
+	font-size:2.6rem;
 	vertical-align: top;
 	padding: 0.5rem 0;
 
 }
 
 .team_table td{
+	font-size:2.6rem;
 	display: block;
 	display: inline-block;
 	padding : 0.5rem 0;
@@ -1088,7 +1090,7 @@ font-size: 2rem;
 
 
 .staff_table{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 }
 
 .staff_list{
@@ -1137,15 +1139,15 @@ font-size: 2rem;
 }
 
 .staff_items_ttl{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	font-weight: bold;
 }
 
 .staff_items_p{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 }
 .staff_name{
-	font-size: 2.4rem;
+	font-size: 3.4rem;
 	font-weight: bold;	
 	margin-bottom: 1rem;
 }
@@ -1175,7 +1177,7 @@ font-size: 2rem;
 
 .trial_p_sp{
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	font-weight: bold;
 	text-align: left;
 	display: inline-block;
@@ -1206,7 +1208,7 @@ font-size: 2rem;
 
 .match_p_sp{
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	font-weight: bold;
 	text-align: left;
 	display: inline-block;
@@ -1239,14 +1241,14 @@ font-size: 2rem;
 }
 
 .faq_question{
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: bold;
 	text-align: left;
 	margin-bottom: 0.5rem;
 }
 
 .faq_answer{
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	text-align: left;
 	padding-left: 2rem;
 }
@@ -1260,7 +1262,7 @@ font-size: 2rem;
 .contact_ttl{
 	font-weight: bold;
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	text-align: left;
 	width: 76%;
 	margin: 0 auto;
@@ -1268,7 +1270,7 @@ font-size: 2rem;
 
 .contact_p{
 	color: #fff;
-	font-size: 1.6rem;
+	font-size: 2.6rem;
 	text-align: left;
 	width: 76%;
 	margin: 0 auto;
@@ -1276,7 +1278,7 @@ font-size: 2rem;
 
 footer{
 	background-color: #DA1A25;
-	font-size: 1.4rem;
+	font-size: 2.4rem;
 	color: #fff;
 	text-align: center;
 	line-height: 56px;
