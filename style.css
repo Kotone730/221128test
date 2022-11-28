@@ -759,8 +759,8 @@ font-size: 2rem;
 .guidance_wrapper{
 	display: inline-block;
 	justify-content: center;
-	margin-top: -6rem;
-	margin-bottom: -6rem;
+	margin-top: -10rem;
+	margin-bottom: -10rem;
 /*	position: relative;*/
 /*	width: 60%;*/
 }
@@ -782,29 +782,29 @@ font-size: 2rem;
 /*	align-items: center;*/
 	background-size: contain;
 	background-repeat: no-repeat;
-  	width: 60rem;
-  	height: 60rem;
+  	width: 70rem;
+  	height: 70rem;
 	transform-origin:50%;
 	left: 0rem;
-	top: 7rem;
+	top: 13rem;
 }
 	
 	.enjoy img,.challenge img,.respect img{
-		width: 40%;
+		width: 30%;
 	}
 
 
 
 .enjoy,.respect{
 	position: absolute;
-  width :32.6rem;
+  width :52.6rem;
   text-align:center;
 
 }
 
 .enjoy_ttl,.respect_ttl{
 	color: #DA1A25;
-	font-size: 4.2rem;
+	font-size: 5rem;
 	font-weight: bold;
 }
 
@@ -834,20 +834,20 @@ font-size: 2rem;
 /*	align-items: center;*/
 	background-size: contain;
 	background-repeat: no-repeat;
- 	width: 60rem;
-  	height: 60rem;
+ 	width: 70rem;
+  	height: 70rem;
 	transform-origin: center center;
 }
 
 .challenge{
 	position: absolute;
-  width :32.6rem;
+  width :52.6rem;
   text-align:center;
 }
 
 .challenge_ttl{
 	color: #fff;
-	font-size: 4.2rem;
+	font-size: 5rem;
 	font-weight: bold;
 }
 
@@ -868,9 +868,9 @@ font-size: 2rem;
 /*	align-items: center;*/
 	background-size: contain;
 	background-repeat: no-repeat;
-  	width: 60rem;
-  	height: 60rem;
-	top: -7rem;
+  	width: 70rem;
+  	height: 70rem;
+	top: -13rem;
 	transform-origin: center center;
 }
 
@@ -908,9 +908,10 @@ font-size: 2rem;
 }
 
 .feature_item{
-	background: url("images/icon_soccer.png") left 0px top 6px no-repeat;
-	padding-left: 3rem;
+	background: url("images/icon_soccer.png") left 0px top 1.0rem no-repeat;
+	padding-left: 4rem;
 	padding-bottom: 3rem;
+	background-size: 3rem auto;
 }
 
 .feature_item:last-child{
