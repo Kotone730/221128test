@@ -841,7 +841,7 @@ font-size: 2rem;
 
 .challenge{
 	position: absolute;
-  width :23.6rem;
+  width :32.6rem;
   text-align:center;
 }
 
@@ -878,6 +878,7 @@ font-size: 2rem;
 	color: #fff;
 	font-size: 2.6rem;
 	text-align: left;
+	font-weight: bold;
 }
 
 
@@ -1058,13 +1059,13 @@ font-size: 2rem;
 	border-bottom: none;
 }
 
+
 .uniform_pc{
 	display: none;
 	}
 	
 .uniform_sp{
-	display: none;
-	width: 200%;
+	width: 80%;
 	}
 
 	
