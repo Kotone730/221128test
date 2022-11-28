@@ -559,7 +559,12 @@ footer{
 
 	
 @media screen and ( max-width:992px) {
-
+html{
+	font-size: 62.5%;
+		font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
+	}
+	
+	
 #g-nav{
     /*position:fixed;にし、z-indexの数値を小さくして最背面へ*/
     position:fixed;
