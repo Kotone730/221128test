@@ -5,7 +5,7 @@
 	
 	html{
 	font-size: 62.5%;
-	font-family: sans-serif;
+		font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
 	}
 
 .openbtn1,#g-nav,#g-nav-list{
@@ -768,7 +768,7 @@ font-size: 2rem;
 
 .subttl_red{
 	color: #DA1A25;
-	font-size: 3rem;
+	font-size: 2rem;
 	margin-bottom: 3rem;
 	font-weight: bold;
 }
@@ -805,13 +805,13 @@ font-size: 2rem;
 
 .enjoy_ttl,.respect_ttl{
 	color: #DA1A25;
-	font-size: 4rem;
+	font-size: 3.2rem;
 	font-weight: bold;
 }
 
 .enjoy_subttl,.respect_subttl{
 	color: #DA1A25;
-	font-size: 2rem;
+	font-size: 1.6rem;
 	font-weight: bold;
 	margin-bottom: 1rem;
 }
@@ -821,7 +821,7 @@ font-size: 2rem;
 }
 
 .guidance_p_black{
-	font-size: 2rem;
+	font-size: 1.6rem;
 	text-align: left;
 }
 
@@ -848,13 +848,13 @@ font-size: 2rem;
 
 .challenge_ttl{
 	color: #fff;
-	font-size: 4rem;
+	font-size: 3.2rem;
 	font-weight: bold;
 }
 
 .challenge_subttl{
 	color: #fff;
-	font-size: 2rem;
+	font-size: 1.6rem;
 	font-weight: bold;
 	margin-bottom: 2rem;
 }
@@ -877,9 +877,8 @@ font-size: 2rem;
 
 .guidance_p_white{
 	color: #fff;
-	font-size: 2.5rem;
+	font-size: 1.6rem;
 	text-align: left;
-	font-wheight:bold;
 }
 
 
