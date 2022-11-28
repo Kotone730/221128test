@@ -810,7 +810,7 @@ font-size: 2rem;
 
 .enjoy_subttl,.respect_subttl{
 	color: #DA1A25;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	font-weight: bold;
 	margin-bottom: 1rem;
 }
@@ -820,7 +820,7 @@ font-size: 2rem;
 }
 
 .guidance_p_black{
-	font-size: 2.6rem;
+	font-size: 3rem;
 	text-align: left;
 }
 
@@ -853,7 +853,7 @@ font-size: 2rem;
 
 .challenge_subttl{
 	color: #fff;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	font-weight: bold;
 	margin-bottom: 2rem;
 }
@@ -876,7 +876,7 @@ font-size: 2rem;
 
 .guidance_p_white{
 	color: #fff;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	text-align: left;
 	font-weight: bold;
 }
@@ -969,7 +969,7 @@ font-size: 2rem;
 }
 
 .lower_p{
-	font-size: 2.6rem;
+	font-size: 3rem;
 }
 
 .higher{
@@ -1004,7 +1004,7 @@ font-size: 2rem;
 }
 
 .higher_p{
-	font-size: 2.6rem;
+	font-size: 3rem;
 }
 
 .teamdetails{
@@ -1108,7 +1108,7 @@ font-size: 2rem;
 /*	padding-left: 7rem;*/
 	padding-bottom: 3rem;
 	display: inline-block;
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
 }
 	
@@ -1248,11 +1248,11 @@ font-size: 2rem;
 }
 
 .faq_items{
-	padding: 2.4rem 1.8rem 2.4rem 1.8rem;
+	padding: 2.4rem;
 }
 
 .faq_question{
-	font-size: 4rem;
+	font-size: 3rem;
 	font-weight: bold;
 	text-align: left;
 	margin-bottom: 0.5rem;
@@ -1261,7 +1261,7 @@ font-size: 2rem;
 .faq_answer{
 	font-size: 3rem;
 	text-align: left;
-	padding-left: 2rem;
+	padding-left: 3rem;
 }
 
 .contact{
@@ -1273,7 +1273,7 @@ font-size: 2rem;
 .contact_ttl{
 	font-weight: bold;
 	color: #fff;
-	font-size: 2.6rem;
+	font-size: 3rem;
 	text-align: left;
 	width: 90%;
 	margin: 0 auto;
