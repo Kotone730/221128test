@@ -559,12 +559,12 @@ footer{
 
 	
 @media screen and ( max-width:992px) {
-html{
+	
+	html{
 	font-size: 62.5%;
 		font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", "Meiryo", "verdana", sans-serif;
 	}
-	
-	
+
 #g-nav{
     /*position:fixed;にし、z-indexの数値を小さくして最背面へ*/
     position:fixed;
@@ -1036,14 +1036,12 @@ font-size: 2rem;
 .team_table th{
 	display: block;
 	font-weight: bold;
-	font-size: 1.6rem;
 	vertical-align: top;
 	padding: 0.5rem 0;
 
 }
 
 .team_table td{
-	font-size: 1.6rem;
 	display: block;
 	display: inline-block;
 	padding : 0.5rem 0;
@@ -1124,14 +1122,12 @@ font-size: 2rem;
 
 .staff_th{
 	display: block;
-	font-size: 1.6rem;
 	font-weight: bold;
 	vertical-align: top;
 
 }
 
 .staff_table td{
-	font-size: 1.6rem;
 		margin-bottom: 1rem;
 	display: block;
 /*	padding:  0 2rem 0.5rem 2rem;*/
